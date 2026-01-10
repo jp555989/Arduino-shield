@@ -3,6 +3,8 @@ This is a project I made for my engineer thesis which involves designing a shiel
 
 I used KiCad for designing the PCB and LtSpice for the simulation of electronic circuits, simulations involved op-amp in voltage phase inverting configuration, buffer and resistor ladder with Monte Carlo Method.
 
+Presented files have updated version of PCB with important fixes, the board presented on photos is the older version.
+
 <img width="1248" height="931" alt="image" src="https://github.com/user-attachments/assets/debc1c0d-9cf0-465a-bc9c-952f269113ff" />
 
 <img width="1243" height="928" alt="image" src="https://github.com/user-attachments/assets/e160852a-806b-4ef3-bd8a-a65aa44282ce" />
