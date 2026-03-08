@@ -17804,7 +17804,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366acf")
 		)
 		(pin "2"
 			(uuid "2557d395-c118-4e8d-9946-67a6ffd169fe")
@@ -17813,7 +17813,7 @@
 			(uuid "bbd78e3a-7d77-47d7-b9d1-86a44843da16")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a3815529552b")
 		)
 		(instances
 			(project "makietadydaktyczna"
@@ -18084,7 +18084,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ad0")
 		)
 		(pin "2"
 			(uuid "cc8352d6-b312-4e7d-9b26-7a56518cb585")
@@ -18093,7 +18093,7 @@
 			(uuid "3dd4f13f-cec2-42f1-a80b-64eefbe49012")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a3815529552c")
 		)
 		(instances
 			(project "makietadydaktyczna"
@@ -18846,7 +18846,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ad1")
 		)
 		(pin "2"
 			(uuid "fe3058f1-63a3-4d1d-bd3a-7befd7a2e4f7")
@@ -18855,7 +18855,7 @@
 			(uuid "91eb7f72-c219-4f55-97e2-c73a59c2ac25")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a3815529552d")
 		)
 		(instances
 			(project "makietadydaktyczna"
@@ -19636,7 +19636,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ad2")
 		)
 		(pin "2"
 			(uuid "70d8f908-e0f8-497a-b27e-3449b63c2f01")
@@ -19645,7 +19645,7 @@
 			(uuid "27d83a30-be57-436d-a788-f1ac01737430")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a3815529552e")
 		)
 		(instances
 			(project "makietadydaktyczna"
@@ -22006,7 +22006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Buzzer_Beeper:Indicator_PUI_AI-1440-TWT-24V-2-R"
+		(property "Footprint" "Buzzer_Beeper:Buzzer_D14mm_H7mm_P10mm"
 			(at 116.205 22.86 90)
 			(effects
 				(font
@@ -26372,7 +26372,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ad3")
 		)
 		(pin "2"
 			(uuid "053cf73d-423e-4af5-b153-b5c035ab2f5b")
@@ -26381,7 +26381,7 @@
 			(uuid "2678f795-f4e3-4a57-9696-ef4f63d88333")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a3815529552f")
 		)
 		(instances
 			(project "makietadydaktyczna"
@@ -26514,7 +26514,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ad4")
 		)
 		(pin "2"
 			(uuid "6cd9f2e3-2d62-4b02-9556-13cddaa52d93")
@@ -26523,7 +26523,7 @@
 			(uuid "ef406339-4651-489a-95fb-acba98e4d789")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a38155295530")
 		)
 		(instances
 			(project "makietadydaktyczna"
@@ -28272,7 +28272,7 @@
 			)
 		)
 		(pin "4"
-			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ace")
+			(uuid "56043af5-c953-4499-aa9a-0c6ac6366ad5")
 		)
 		(pin "2"
 			(uuid "6d01286f-61b1-4df1-9f77-c26627543267")
@@ -28281,7 +28281,7 @@
 			(uuid "e14c8b45-9368-4aac-92d3-4cede83273a8")
 		)
 		(pin "3"
-			(uuid "b70eae45-8b96-4269-a961-a3815529552a")
+			(uuid "b70eae45-8b96-4269-a961-a38155295531")
 		)
 		(instances
 			(project "makietadydaktyczna"

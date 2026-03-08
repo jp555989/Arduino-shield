@@ -489,7 +489,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "pdf/",
+      "plot": "/home/archidaruma/kicadproj/arduino_shield/makieta_dydaktyczna/nowsza wersja/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "makietadydaktyczna.step",
